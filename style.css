@@ -5,7 +5,7 @@ h1 {
    font-size: 100px;
  }
 body {
-  background-color: #300;
+  background-image: url("http://www.arafcs.org/wp-content/uploads/2016/04/cheap-school-bathroom-stall-door-public-restrooms.jpg");
 }
 div {
   text-align: center;
@@ -33,6 +33,9 @@ div {
   padding-right: 10px;
   padding-bottom: 10px;
 }
+.box1:hover {
+  background-color: #663300;
+}
 .box2 {
   background-color: #111;
   width: 50px;
@@ -41,6 +44,9 @@ div {
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+}
+.box2:hover {
+  background-color: #663300;
 }
 .box3 {
   background-color: #222;
@@ -51,6 +57,9 @@ div {
   padding-right: 10px;
   padding-bottom: 10px;
 }
+.box3:hover {
+  background-color: #663300;
+}
 .box4 {
   background-color: #333;
   width: 50px;
@@ -59,6 +68,9 @@ div {
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+}
+.box4:hover {
+  background-color: #663300;
 }
 .box5 {
   background-color: #222;
@@ -69,6 +81,9 @@ div {
   padding-right: 10px;
   padding-bottom: 10px;
 }
+.box5:hover {
+  background-color: #663300;
+}
 .box6 {
   background-color: #111;
   width: 50px;
@@ -78,6 +93,9 @@ div {
   padding-right: 10px;
   padding-bottom: 10px;
 }
+.box6:hover {
+  background-color: #663300;
+}
 .box7 {
   background-color: #000;
   width: 50px;
@@ -86,4 +104,7 @@ div {
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+}
+.box7:hover {
+  background-color: #663300;
 }
